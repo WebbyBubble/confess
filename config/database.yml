@@ -49,7 +49,7 @@ test:
   database: confessions_test
   pool: 5
   username: confessions
-  password:
+  password: secret123
 
 production:
   adapter: postgresql
@@ -57,4 +57,4 @@ production:
   database: confessions_production
   pool: 5
   username: confessions
-  password:
+  password: secret123
