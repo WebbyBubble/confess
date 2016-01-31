@@ -1,0 +1,16 @@
+.DS_Store
+.bundle
+.sass-cache
+.env
+coverage
+coverage/
+coverage/**/*
+db/*.sqlite3
+log
+mkmf.log
+public/stylesheets/compiled/*
+public/system/*
+public/uploads
+rdoc
+tmp
+uploads
